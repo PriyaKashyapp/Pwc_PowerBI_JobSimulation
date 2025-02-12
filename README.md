@@ -15,7 +15,7 @@ Welcome to my submission for the PwC Power BI Job Simulation. This task focuses 
 ## Task 3: Diversity & Inclusion Analysis
 ### Task Overview : Create visualizations that represent HR data, particularly focusing on gender-related KPIs, and analyze the root causes behind the slow progress in achieving gender balance at the executive management level.
 
-![image alt](https://github.com/PriyaKashyapp/Pwc_PowerBI_JobSimulation/blob/1052e86f1a53985a32311bb0f66eb42c3b99d537/Task3.pdf)
+![image alt](https://github.com/PriyaKashyapp/Pwc_PowerBI_JobSimulation/blob/4fd03cf25918e244a04883cfdc733e42dd961faa/Task3.pdf)
 
 ## Tools & Technologies Used
 1) Power BI for data visualization and dashboard creation.
