@@ -5,6 +5,8 @@ Welcome to my submission for the PwC Power BI Job Simulation. This task focuses 
 ## Task 1: Creating a Power BI Dashboard for Key Business Metrics
 # Task Overview : Power BI dashboard to visualize relevant KPIs and metrics from the provided dataset. The dashboard should address the client's request and provide clear, data-driven insights.
 
+![image alt](https://github.com/PriyaKashyapp/Pwc_PowerBI_JobSimulation/blob/6221cb4654065954294441270caff0c5d44bcb7c/Task1.png)
+
 
 ## Task 2: Customer Retention Analysis Dashboard
 # Task Overview : Power BI dashboard to visualize customer retention KPIs and provide strategic insights for improving retention rates.
