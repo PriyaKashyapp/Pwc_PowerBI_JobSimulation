@@ -13,7 +13,8 @@ Power BI dashboard to visualize relevant KPIs and metrics from the provided data
 ## Task Overview
 Power BI dashboard to visualize customer retention KPIs and provide strategic insights for improving retention rates.
 
-##Task 3: Diversity & Inclusion Analysis
+
+## Task 3: Diversity & Inclusion Analysis
 
 ##Task Overview
 Create visualizations that represent HR data, particularly focusing on gender-related KPIs, and analyze the root causes behind the slow progress in achieving gender balance at the executive management level.
@@ -23,5 +24,5 @@ Create visualizations that represent HR data, particularly focusing on gender-re
 2) DAX (Data Analysis Expressions) for advanced calculations.
 3) Data Cleaning & Transformation using Power Query.
 
-Conclusion
+## Conclusion
 These tasks enhanced my Power BI skills while providing valuable experience in analyzing business data, customer retention, and HR diversity metrics. Each dashboard presents key insights, helping stakeholders make informed decisions.
