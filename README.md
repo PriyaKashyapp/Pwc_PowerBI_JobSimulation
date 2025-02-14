@@ -2,12 +2,12 @@
 
 Welcome to my submission for the PwC Power BI Job Simulation. This task focuses on the importance of digital upskilling, the role of a Digital Accelerator, and developing Power BI dashboards to visualize key performance indicators (KPIs) and metrics.
 
-## Task 1: Customer Retention Analysis Dashboard
+## Task 1: Customer Retention Analysis Dashboard for Call Center Data
 ### Power BI dashboard to visualize customer retention KPIs and provide strategic insights for improving retention rates.
 
 ![image alt](https://github.com/PriyaKashyapp/Pwc_PowerBI_JobSimulation/blob/2e8f24a5067c38171d7ea2bf26177ec797df19c3/Task2.png)
 
-## Task 2: Customer Risk and Churn Analysis 
+## Task 2: Customer Risk and Churn Analysis Dashboard for Customer Data.
 ### The Customer Risk and Churn Analysis dashboard provides key insights into customer attrition patterns, service subscription behaviors, and demographic influences on churn. The analysis identifies critical factors contributing to customer churn and suggests strategic actions to mitigate risks.
 
 ![image alt](https://github.com/PriyaKashyapp/Pwc_PowerBI_JobSimulation/blob/6221cb4654065954294441270caff0c5d44bcb7c/Task1.png)
